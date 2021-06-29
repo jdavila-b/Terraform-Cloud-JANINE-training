@@ -1,1 +1,1 @@
-# Terraform-Cloud-JANINE-training-
+# Terraform-Cloud-JANINE-training
